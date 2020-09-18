@@ -1355,7 +1355,7 @@ footer p {
 @media screen and (max-width: 1920px) {
   footer {
     height: 11vw;
-    width: 99.9vw;
+    width: 98vw;
   }
   footer p {
     font-size: 1.3vw;
