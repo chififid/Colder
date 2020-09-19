@@ -17,6 +17,10 @@ input:active, input:focus, button:active, button:focus {
   font-style: normal;
 }
 
+button {
+    cursor: pointer;
+}
+
 input::-moz-focus-inner, input::-moz-focus-inner {
   border: 0 !important;
 }
@@ -1364,4 +1368,3 @@ footer p {
     opacity: 0.3;
   }
 }
-/*# sourceMappingURL=style.css.map */
