@@ -10,6 +10,10 @@ input:active, input:focus, button:active, button:focus {
   border: 0 !important;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 @font-face {
   font-family: 'Bebas Neue';
   src: url("fonts/BebasNeueBold.woff") format("woff");
